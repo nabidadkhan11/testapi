@@ -29,5 +29,6 @@
   { "name": "Skyline Blue", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Vv2lFV2nMS8trCe-sYVp5U5abJt27wg9cg&s" },
   { "name": "Vintage Red", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Vv2lFV2nMS8trCe-sYVp5U5abJt27wg9cg&s" },
   { "name": "Street Yellow", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Vv2lFV2nMS8trCe-sYVp5U5abJt27wg9cg&s" },
-  { "name": "Dark Forest", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Vv2lFV2nMS8trCe-sYVp5U5abJt27wg9cg&s" }
+  { "name": "Dark Forest", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Vv2lFV2nMS8trCe-sYVp5U5abJt27wg9cg&s" },
+  { "name": "Sirf Test", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Vv2lFV2nMS8trCe-sYVp5U5abJt27wg9cg&s" }
 ]
